@@ -1,7 +1,7 @@
-# STUDENT-MARKS-ANALAYZER-
+# STUDENT-GRADE-ANALAYZER-
 
 markdown
-# 📊 Student Marks Analyzer
+# 📊 Student Grade Analyzer
 
 A simple Python-based project that analyzes student marks using **NumPy** and provides useful statistics such as total, average, highest, lowest marks, and grade evaluation.
 

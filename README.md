@@ -130,11 +130,4 @@ If you found this project helpful, consider giving it a ⭐ on GitHub!
 
 
 
-If you want, I can also:
-- make it **resume-level (with badges + screenshots)**  
-- add **GitHub badges (Python version, stars, license)**  
-- or convert this into a **proper project repo structure**
-
-Just tell me 👍
-```
 
